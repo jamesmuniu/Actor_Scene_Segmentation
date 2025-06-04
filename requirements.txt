@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless
-deepface==1.26.1
+deepface
 moviepy
 scenedetect
 matplotlib
