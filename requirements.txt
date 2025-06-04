@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+moviepy
+scenedetect
+deepface==0.0.79
+tensorflow==2.12.0
+matplotlib
