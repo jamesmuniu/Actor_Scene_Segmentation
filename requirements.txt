@@ -1,7 +1,0 @@
-python==3.11
-streamlit
-opencv-python-headless
-moviepy
-scenedetect
-deepface==0.0.93
-matplotlib
