@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-import cv2
+#import cv2
 import tempfile
 from moviepy.editor import VideoFileClip, concatenate_videoclips
 from scenedetect import VideoManager, SceneManager
