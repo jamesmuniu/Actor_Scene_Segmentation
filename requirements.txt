@@ -1,7 +1,8 @@
 streamlit
 opencv-python-headless
-deepface==0.0.79
+deepface==1.26.1
 moviepy
 scenedetect
 matplotlib
 Pillow
+tensorflow==2.13.0
