@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv-python-headless
 deepface==0.0.93
 moviepy
 scenedetect
