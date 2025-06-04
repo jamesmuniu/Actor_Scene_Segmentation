@@ -1,5 +1,5 @@
 streamlit
-opencv-python
+opencv-python --force-reinstall --no-cache-dir
 deepface==0.0.93
 moviepy
 scenedetect
