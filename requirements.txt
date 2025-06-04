@@ -1,6 +1,0 @@
-streamlit
-opencv-python-headless
-moviepy
-scenedetect
-deepface
-matplotlib
